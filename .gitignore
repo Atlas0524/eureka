@@ -1,0 +1,17 @@
+target/
+test-artifacts/
+
+.idea/
+.project
+.settings
+.DS_Store
+
+*.iml
+*.png
+
+# Gradle
+.gradle/
+**/build/
+**/bin/
+**/classes/
+**/out/
